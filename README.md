@@ -20,6 +20,10 @@ This is from Claude Developer Documentation: https://docs.anthropic.com/en/docs/
 
 The interleaved thinking allows Claude to think between the tool use block and tool result block.
 
+## Tool use
+
+Basically follow the Claude tool use [tutorial](https://github.com/anthropics/courses/tree/master/tool_use). Highly recommend it!
+
 ## Troubleshooting
 
 ### The environment variable cannot be found in Cursor or VSCode when using Jupyter Notebook
